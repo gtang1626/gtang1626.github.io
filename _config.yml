@@ -63,9 +63,8 @@ skills:
     tools:
     - GD&T ASME Y14
     - ISO fits and tolerances
-skills:
-- category: PCB Design
-  - tools:
+  - category: PCB Design
+    tools:
     - Design for Manufacturing
     - Altium
     - Altium Designer
