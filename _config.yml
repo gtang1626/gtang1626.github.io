@@ -36,6 +36,34 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
+  - category: 3D Modeling
+    tools:
+    - Onshape
+    - Solidworks
+    - Creo
+    - Fusion 360 (Autodesk)
+    - Blender (for complex shapes or animations)
+    - Siemens NX
+    - Inventor (Autodesk)
+    - CATIA (Dassault Systèmes)
+  - category: Prototyping
+    tools:
+    - SLA
+    - CNC
+    - FDM
+    - SLS
+    - DMLS
+    - PolyJet Printing
+    - Vacuum Casting
+    - Laser Cutting
+    - Water Jet Cutting
+    - Arduino / Raspberry Pi
+    - Breadboarding for circuit testing
+  - category: Design Standards / Practices
+    tools:
+    - GD&T ASME Y14
+    - ISO fits and tolerances
+skills:
 - category: PCB Design
   - tools:
     - Design for Manufacturing
