@@ -36,13 +36,13 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 technical skills:
-  - category: PCB Design
+  category: PCB Design
     tools:
-    - Design for Manufacturing
-    - Altium
-    - Altium Designer
-    - Kicad
-    - Cadence circuit design
+      Design for Manufacturing
+      Altium
+      Altium Designer
+      Kicad
+      Cadence circuit design
   - category: Embedded Systems
     tools: 
     - Microcontrollers
