@@ -1,16 +1,15 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: ChipSat
+description: Designed under Cornell's Space Systems Design Studio, this "satellite on a chip" carries a complete spacecraft on a single 5x5cm square, including a LoRa radio, GPS module, power system, and various sensors. These were featured in two key missions: Alpha CubeSat, where they were deployed as part of a free flying lightsail, and DeSCENT, which sets out to deploy a swarm of 100 networked ChipSats. 
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - Power System Design
+  - Microcontrollers
+  - GPS
+  - LoRa
+  - Antenna Design/Tuning
+  - PCB Design
+  - PCB Assembly and Verification
 
 main-image: /project2.jpg
 ---
