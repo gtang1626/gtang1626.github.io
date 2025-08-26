@@ -1,6 +1,6 @@
 ---
 layout: post
-title: POE Radio Board
+title: Autoboat POE
 description: description
 skills: 
   - Microcontrollers
