@@ -15,13 +15,30 @@ main-image: /project2.jpg
 ---
 
 ---
-# Header 1 
-Used for the title (already generated automatically at the top)
-## Header 2  
-Use this for the header of each section
-### Header 3 
-Use this to have subsection if needed
+## Alpha ChipSat 
+Publication - Umansky-Castro, J., et al. (Including Tang, G.). (2025). Gram-Scale ChipSat Spacecraft for Light Sailing in LEO. 39th Annual Small Satellite Conference. <br>
+Publication Link - <br><br>
+### Dipole Antenna Design
+VNA Tuning, matching network, helical antenna <br>
+Poster <br><br>
+### Antenna Testing
+Long range weather balloon tests, proof of concept with umd nearspace, <br>
+testing on different surfaces to simulate lightsail (glass, cardboard, actual lightsail)
+### PCB Assembly
+Prototype versions cheaper to assemble ourselves rather than purchase already manufactured <br>
+Stenciling, placing components, reflow process, some rework done by hand, working with bom <br>
+Didn't design PCB but need to understand schematics + layout files <br>
+validation - continuity testing, power testing, with benchtop supply --> with solar panel <br>
 
+## DeSCENT ChipSat  
+Publication: <br>
+Publication Link: <br>
+### Power Budget 
+deciding between using solar vs. using battery, bat is shorter path to flight ready + shorter duration flight <br>
+Need power budget to spec battery (ultrathin lipos), comparing power consumption between STM combined microcontroller (also saves space) vs. Alpha Chipsat setup <br>
+Startup current spike issue (also present on alpha ver), when using battery there was issue where this would cause chipsat to get stuck in a low voltage mode, testing by setting power supply current limit <br>
+### PCB Design
+Update PCB to match breadboard prototype (for Alpha Setup version/V1), layout challenges <br>
 
 ## Embedding images 
 ### External images
