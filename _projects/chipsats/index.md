@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ChipSat
-description: Designed under Cornell's Space Systems Design Studio, this "satellite on a   chip" carries a complete spacecraft on a single 5x5cm square, including a LoRa radio, GPS module, power system, and various sensors. These were featured in two key missions\: Alpha CubeSat, where they were deployed as part of a free flying lightsail, and DeSCENT, which sets out to deploy a swarm of 100 networked ChipSats.
+description: Designed under Cornell's Space Systems Design Studio, this "satellite on a   chip" carries a complete spacecraft on a single 5x5cm square, including a LoRa radio, GPS module, power system, and various sensors. These were featured in two key missions. Alpha CubeSat, where they were deployed as part of a free flying lightsail, and DeSCENT, which sets out to deploy a swarm of 100 networked ChipSats.
 skills: 
   - Power System Design
   - Microcontrollers
