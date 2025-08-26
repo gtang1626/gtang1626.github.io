@@ -15,10 +15,10 @@ title: Grace Tang's Portfolio # This is what shows up in the tab of the browser
 name: Grace Tang
 headline: MEng ECE at Cornell University | Loves to build
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  I’m a Master’s student in Electrical and Computer Engineering at Cornell, with a strong foundation 
+  I’m a Masters student in Electrical and Computer Engineering at Cornell, with a strong foundation 
   in embedded systems, PCB design, and hardware prototyping. I’ve worked across startups and 
   industry designing electrical systems in a variety of settings including autonomous vehicles, 
-  aerospace, and consumer tech. I enjoy building full-stack hardware that brings ideas to life—from 
+  aerospace, and consumer tech. I enjoy building full stack hardware that brings ideas to life, from 
   concept to deployment.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
