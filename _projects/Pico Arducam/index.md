@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RP2040 Camera
+title: Camera RP2040
 description: getting arducam camera (meant for raspberry pi/arduino) working with pico microcontroller, final result image colors not correctly decoded but we got a recognizable image, played around with simple image compression (major challenge was addressing very limited memory)
 skills: 
   - Microcontrollers
