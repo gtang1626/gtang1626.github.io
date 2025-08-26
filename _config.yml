@@ -138,7 +138,7 @@ plugins:
 include:
   - _projects
 exclude:
-- formspree-key
+- _formspree-key
 
 
 # Exclude from processing.
